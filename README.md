@@ -1,2 +1,2 @@
 # EIDmap
-An interactive world map that uses modeling techniques on satellite imagery and other geolocated data to help predict potential outbreaks of zoological infectious diseases
+An interactive disease surveillance platform that utilizes satellite imagery and other geolocated data to forecast emerging infectious disease outbreaks
